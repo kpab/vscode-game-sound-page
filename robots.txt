@@ -1,0 +1,6 @@
+# robots.txt for VSCode Game Sound Page
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://kpab.github.io/vscode-game-sound-page/sitemap.xml
