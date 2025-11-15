@@ -1,0 +1,33 @@
+# GitHub Pages SEO Configuration
+title: VSCode Game Sound - Turn Coding into an RPG Adventure!
+description: Transform your coding into an epic gaming experience with RPG-style sound effects for every keystroke! Make programming fun again.
+url: https://kpab.github.io
+baseurl: /vscode-game-sound-page
+
+# Author information
+author:
+  name: kpab
+  url: https://github.com/kpab
+
+# SEO settings
+lang: en_US
+twitter:
+  card: summary_large_image
+  username: kpab
+
+# Social profiles
+social:
+  links:
+    - https://github.com/kpab
+    - https://marketplace.visualstudio.com/items?itemName=kpab.vscode-game-sound
+
+# Plugins for SEO
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+  - .git
